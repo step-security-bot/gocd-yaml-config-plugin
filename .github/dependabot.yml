@@ -10,3 +10,8 @@ updates:
     interval: monthly
   open-pull-requests-limit: 99
 
+
+- package-ecosystem: npm
+  directory: /src/test/resources/parts/materials
+  schedule:
+    interval: daily
